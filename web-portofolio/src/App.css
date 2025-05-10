@@ -315,7 +315,7 @@ section ul li {
 /* === WARNA BACKGROUND TIAP SECTION === */
 
 section.profile {
-  background: linear-gradient(135deg, #f9f9f9, #ffffff);
+  background: linear-gradient(135deg, #ffffff, #ffffff);
 }
 
 section.struktur {
